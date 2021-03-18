@@ -630,6 +630,8 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/7gPVy7L/redbulltvlogobyvovanloc.png", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/PcJT7q0/nhkglogobyvovanloc.png" group-title="NHẬT BẢN", NHK G
+http://203.162.235.41:16903
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/68cVkqc/NHK.png", NHK Normal
 http://203.162.235.41:16901
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://www.news24.jp/external/images/bnr_howto_150x60.jpg", NTV News24
