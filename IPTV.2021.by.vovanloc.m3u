@@ -442,8 +442,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ"  tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG | 1080P
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ"  tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG | 720P
-http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/2y38WHL/animaxlogobyvovanloc.png", ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png", Animal Planet
