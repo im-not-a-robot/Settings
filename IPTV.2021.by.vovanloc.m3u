@@ -165,51 +165,6 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Pm92kRB/yenbaitvlogobyvovanloc.png", Yên Bái SD
 https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://i.ibb.co/KWtbP42/Sctv1logobyvovanloc.png", SCTV1 HD - Kênh Giải Trí
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_Hai_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/HgJ7K7q/sctv2logobyvovanloc.png", SCTV2 HD
-https://vtsstr3.tv24.vn/elive/_definst_/smil:sctv2_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/HgJ7K7q/sctv2logobyvovanloc.png", SCTV2 SD
-https://livecdn.fptplay.net:443/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/DKpPqqT/sctv3logobyvovanloc.png", SCTV3 HD - See TV
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDThieunhi_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv4" group-title="SCTV" tvg-logo="https://i.ibb.co/yFXT4p4/sctv4logobyvovanloc.png", SCTV4 - Giải Trí Tổng Hợp
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_GiaiTri_new1.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/ZznQqdV/sctv6logobyvovanloc.png", SCTV6 HD - Thế Hệ Mới
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV6HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/whXPqdN/sctv7logobyvovanloc.png", SCTV7 HD
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_SanKhau_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv8" group-title="SCTV" tvg-logo="https://i.ibb.co/mS8Mv03/Sctv8logobyvovanloc.png", SCTV8 HD - VITV
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV8_SD_new1.smil/chunklist_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.ibb.co/rZDRFJS/sctv9logobyvovanloc.png" group-title="SCTV", SCTV9 HD - Phim Châu Á
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://i.ibb.co/TvWFbb0/sctv11logobyvovanloc.png", SCTV11 HD - TV STAR
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVVHNT_HD_new1.smil/chunklist_w388318367_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv12" group-title="SCTV" tvg-logo="https://i.ibb.co/z8DXKJ3/sctv12logobyvovanloc.png", SCTV12 HD
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV12_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/KVX8j3t/sctv13logobyvovanloc.png", SCTV13 HD - Lady TV
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDPhunuGiadinh_new1/chunklist_w1305010199_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" tvg-logo="https://i.ibb.co/2qJdRgJ/sctv14logobyvovanloc.png" group-title="SCTV", SCTV14 - Kênh Phim Việt
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimViet_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv15_s_sport_2" tvg-logo="https://i.ibb.co/WHQSBSr/sctv15logobyvovanloc.png" group-title="SCTV", SCTV15 HD - Ssport 2
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_TheThao_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv16" tvg-logo="https://i.ibb.co/cD5vpHC/Sctv16logobyvovanloc.png" group-title="SCTV", SCTV16 HD
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_phimnuocngoaidacsac_new1.smil/chunklist_w1386634061_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv17_hd" tvg-logo="https://i.ibb.co/P4Hxh1R/sctv17logobyvovanloc.png" group-title="SCTV", SCTV17 HD - Ssport
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/VYjXcYF/sctv18logobyvovanloc.png", SCTV18 HD
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV18_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv19" group-title="SCTV" tvg-logo="https://i.ibb.co/pw3Qvcf/sctv19logobyvovanloc.png", SCTV19 HD
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV19_HD_new1.smil/chunklist_w897860104_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv20_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/Jq51kcR/sctv20logobyvovanloc.png", SCTV20 HD - Ca Nhạc
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV20_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv22_hd" tvg-logo="https://i.ibb.co/41vdS5q/sctv22logobyvovanloc.png" group-title="SCTV", SCTV22 HD - Ssport 1
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="sctv_phim_tong_hop" tvg-logo="https://i.ibb.co/PcR2ztv/sctvpthbyvovanloc.png" group-title="SCTV", SCTV HD Phim Tổng hợp
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVHDPhimTH_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-#EXTINF:-1 tvg-id="s_sport_3" group-title="SCTV" tvg-logo="https://i.ibb.co/NncxHp9/ssport3logobyvovanloc.png", BTV5 HD - Ssport 3
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/chunklist_w1553585142_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/yXjF0dk/htv1logobyvovanloc.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/3hWyJYk/htv2logobyvovanloc.png", HTV2 - Vie Channel | 1080P
@@ -324,39 +279,6 @@ https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.ibb.co/ZcZV2Dx/vtc16logobyvovanloc.png", VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/G5xTrR9/vtvcab1logobyvovanloc.png", VTVCab1 - Vie Giải Trí
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w1233410551_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab2_phim_viet" group-title="VTVCab" tvg-logo="https://i.ibb.co/cYmmPHB/phimvietlogobyvovanloc.png", VTVCab2 - Phim Việt
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8
-#EXTINF:-1 tvg-id="vtvcab3_the_thao_tv_sd" group-title="VTVCab" tvg-logo="https://i.ibb.co/mBGc6NZ/vtvcab3logobyvovanloc.png", VTVCab3 - Thể Thao TV
-http://s4.nihontv.net:21585/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab4" group-title="VTVCab" tvg-logo="https://i.ibb.co/smnmRvF/VTVCab4logobyvovanloc.png", VTVCab4 - Văn Hóa
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD_new1.smil/chunklist_w106658459_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab5_e_channel" group-title="VTVCab" tvg-logo="https://i.ibb.co/GVYvHh8/EChannellogobyvovanloc.png", VTVCab5 - E Channel
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD_new1.smil/chunklist_w811695802_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab6_haytv" group-title="VTVCab" tvg-logo="https://i.ibb.co/6WqYTQv/vtvcab6logobyvovanloc.webp", VTVCab6 - Hay TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD_new1.smil/chunklist_w2090799751_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab10" group-title="VTVCab" tvg-logo="https://i.ibb.co/HDHyRhD/VTVCab7logobyvovanloc.png", VTVCab 7 - Sức Khỏe
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab7_SD_new1.smil/chunklist_w1826260574_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab8_bibi" group-title="VTVCab" tvg-logo="https://i.ibb.co/zXVC5Q0/Bi-Bilogobyvovanloc.png", VTVCab8 - BiBi
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab8_SD_new1.smil/chunklist_w1608384322_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab9_infotv" group-title="VTVCab" tvg-logo="https://i.ibb.co/NYbLQ7c/infotvlogobyvovanloc.webp", VTVCab9 - Info TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab9_SD_new1.smil/chunklist_w1574899389_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab7_vie_dramas" group-title="VTVCab" tvg-logo="https://i.ibb.co/khYzfXs/Viedramaslogobyvovanloc.png", VTVCab10 - Vie Dramas
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD_new1.smil/chunklist_w14516681_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab12_style_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/hycB8n1/styletvlogobyvovanloc.webp", VTVCab12 - Style TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD_new1.smil/chunklist_w915030105_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab15_hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/SDgRsN2/UMChannellogobyvovanloc.webp", VTVCab15 - UM Channel
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD_new1.smil/chunklist_w1228867205_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab16_bong_da_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/58D7PPn/vtvcab16logobyvovanloc.webp", VTVCab16 - Bóng Đá TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w913268349_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab17_yeah1_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/Hzb7J8b/yeah1tvlogobyvovanloc.png", VTVCab17 - Yeah1 TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD_new1.smil/chunklist_w1598932811_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab19_kenh_phim" group-title="VTVCab" tvg-logo="https://i.ibb.co/8XJYNhf/vtvcab19logobyvovanloc.png", VTVCab19 - Film TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD_new1.smil/chunklist_w40873927_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1 tvg-id="vtvcab20_v_family" group-title="VTVCab" tvg-logo="https://i.ibb.co/f2xchQ6/VFamilylogobyvovanloc.png", VTVCab20 - VFamily
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD_new1.smil/chunklist_w290702272_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-
 #EXTINF:-1 tvg-id="antvhd" group-title="KHÁC" tvg-logo="https://i.ibb.co/0Mq88JP/anninhtvbyvovanloc.png", An Ninh TV | 1080P
 https://live-vthcm.vieon.vn/htv_drm/live/antv/TV_HD/antv_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="KHÁC" tvg-logo="https://i.ibb.co/0Mq88JP/anninhtvbyvovanloc.png", An Ninh TV | 720P
@@ -387,6 +309,10 @@ https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="anvien" group-title="KHÁC" tvg-logo="https://i.ibb.co/FWckt4h/BTV10logobyvovanloc.png", BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="sctv2_hd" group-title="KHÁC" tvg-logo="https://i.ibb.co/HgJ7K7q/sctv2logobyvovanloc.png", SCTV2 SD
+https://livecdn.fptplay.net:443/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="s_sport_3" group-title="KHÁC" tvg-logo="https://i.ibb.co/NncxHp9/ssport3logobyvovanloc.png", BTV5 HD - Ssport 3
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/chunklist_w1553585142_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 9 (Ninja Warrior 9) - Phần 1
 https://dl.dropboxusercontent.com/s/1js6kgesbctxriz/Ninja%20Warrior%209%20%28SASUKE%209%29%20-%20Part%201.mp4?dl=0
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 9 (Ninja Warrior 9) - Phần 2
