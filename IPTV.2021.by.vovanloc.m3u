@@ -42,6 +42,8 @@ https://livecdn.fptplay.net:443/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/MSy09Y4/dongnai2tvlogobyvovanloc.png", Đồng Nai 2 HD
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8Pzm92J/dongnai3logobyvovanloc.png", Đồng Nai 3 SD
+https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/1b39pcv/dongthap1tvlogobyvovanloc.png", Đồng Tháp 1
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w359372379.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sPGDjSm/dongthap2tvlogobyvovanloc.png", Đồng Tháp 2
