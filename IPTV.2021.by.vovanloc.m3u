@@ -309,7 +309,7 @@ https://live-vthcm.vieon.vn/htv_drm/live/antv/TV_HD/antv_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="KHÁC" tvg-logo="https://i.ibb.co/0Mq88JP/anninhtvbyvovanloc.png", An Ninh TV | 720P
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/FzWcfPw/quochoilogobyvovanloc.png", Quốc Hội | 1080P
-http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/quoc_hoi/TV_HD/quoc_hoi_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/FzWcfPw/quochoilogobyvovanloc.png", Quốc Hội | 720P
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/4jtnTg6/QPVNlogobyvovanloc.png", QPVN | 1080P
@@ -317,11 +317,11 @@ https://live-vthcm.vieon.vn/htv_drm/live/qpvn/TV_HD/qpvn_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/4jtnTg6/QPVNlogobyvovanloc.png", QPVN | 720P
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/3Tp2VMZ/nhandantvlogobyvovanloc.webp", Nhân Dân TV | 1080P
-http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/nhan_dan/TV_HD/nhan_dan_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/3Tp2VMZ/nhandantvlogobyvovanloc.webp", Nhân Dân TV | 720P
 https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.ibb.co/PxHy4mN/VNEWSlogobyvovanloc.png", VNews | 1080P
-http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/ttxvn/TV_HD/ttxvn_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.ibb.co/PxHy4mN/VNEWSlogobyvovanloc.png", VNews | 720P
 http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vovtv" group-title="KHÁC" tvg-logo="https://i.ibb.co/Bgm9z5p/vovtvlogobyvovanloc.png", VOV TV HD
