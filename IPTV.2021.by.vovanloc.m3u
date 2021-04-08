@@ -765,6 +765,23 @@ http://49.231.66.85:1935/live/tptv/chunklist_w1709422679.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/cFXHW5X/yateemtvlogobyvovanloc.png", Yateem TV
 https://vdo.plathong.net/wowza/muslimonair1/live/chunklist_w1252525349.m3u8
 
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.ibb.co/yST8qyZ/5plustvlogobyvovanloc.png", 5 PLUS
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w143141445.m3u8
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.ibb.co/p1Hwz7w/Channel7tvlogobyvovanloc.png", Channel 7
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w2140306992.m3u8
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.ibb.co/wQQPVPc/Channel9tvlogobyvovanloc.jpg", Channel 9
+https://5a13fe32ef748.streamlock.net/mmplay/channel9/chunklist_w195649533.m3u8
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.ibb.co/kxznn9V/MRTVtvlogobyvovanloc.png", MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1451991799.m3u8
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.ibb.co/vJjnXNS/MRTV-4logobyvovanloc.jpg", MRTV-4 
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w2147239877.m3u8
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.ibb.co/f4nH4JK/MITVMyanmarlogobyvovanloc.png", MiTV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/chunklist_w1445401609.m3u8
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.ibb.co/6WpGVHg/MNTVlogobyvovanloc.png", MNTV | 720P
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.ibb.co/6WpGVHg/MNTVlogobyvovanloc.png", MNTV | 480P
+https://5a13fe32ef748.streamlock.net/mmplay/mntv/chunklist_w1644578136.m3u8
+
 #EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/apsara_tv.png", APSARA TV
 http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
 #EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://i.imgur.com/8Bf5K9i.jpg", BAYON NEWS
