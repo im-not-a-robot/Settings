@@ -14,7 +14,7 @@ http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/10BZLKG/BTV2logobyvovanloc.png", Bình Dương 2 HD
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/v394QCH/binhdinhtvlogobyvovanloc.png", Bình Định
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/v394QCH/binhdinhtvlogobyvovanloc.png", Bình Định HD
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0f8bqzf/BPTV1logobyvovanloc.png", Bình Phước 1 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
@@ -512,10 +512,9 @@ https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 https://vtsstr3.tv24.vn/elive/SCTV_HD_TheThao_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-id="sctv17_hd" tvg-logo="https://i.ibb.co/P4Hxh1R/sctv17logobyvovanloc.png", SCTV17 HD - Ssport
 https://vtsstr3.tv24.vn/elive1/SCTV17_HD_4/chunklist_w60057380.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
-#EXTINF:-1 tvg-id="sctv22_hd" group-title="KÊNH THỂ THAO",tvg-logo="https://i.ibb.co/41vdS5q/sctv22logobyvovanloc.png" SCTV22 HD - Ssport 1
-
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-id="sctv22_hd" tvg-logo="https://i.ibb.co/41vdS5q/sctv22logobyvovanloc.png" SCTV22 HD - Ssport 1
 http://vtsstr3.tv24.vn:1935/elive1/SCTV22_HD_4/chunklist.b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty
-#EXTINF:-1 tvg-id="s_sport_3" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/NncxHp9/ssport3logobyvovanloc.png", BTV5 HD - Ssport 3
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-id="s_sport_3" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/NncxHp9/ssport3logobyvovanloc.png", BTV5 HD - Ssport 3
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/hmDsbKr/beinsports1logobyvovanloc.png", BeIN Sport 1 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
