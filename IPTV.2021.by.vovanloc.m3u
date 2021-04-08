@@ -756,8 +756,6 @@ https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/LQz81bj/GMM25logobyvovanloc.png", GMM 25 SD
 http://live2.dootvde.com/live/50018_gmm.stream.smil/chunklist_w259668913_b4692000_slThai.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/xm4bVsq/workpointlogobyvovanloc.png", WORKPOINT TV
-http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/tX1vsxC/TPTVlogobyvovanloc.png", TPTV
 http://49.231.66.85:1935/live/tptv/chunklist_w1709422679.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/cFXHW5X/yateemtvlogobyvovanloc.png", Yateem TV
