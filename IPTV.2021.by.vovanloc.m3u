@@ -73,7 +73,7 @@ http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/596yzNT/hatinhtvlogobyvovanloc.webp", Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fvbQFZB/haiduongtvlogobyvovanloc.png", Hải Dương
-https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=auto&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/DpPbLht/haiphongtvlogobyvovanloc.png", Hải Phòng HD
 https://live.thhp.vn/thp/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xMFPJmR/haiphong-logobyvovanloc.png", Hải Phòng + HD
