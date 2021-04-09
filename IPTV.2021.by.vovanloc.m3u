@@ -112,7 +112,7 @@ https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/sda/phutho_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/MG4FS72/phuyentvlogobyvovanloc.png", Phú Yên HD
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/PrY6ZQ7/quangbinhtvlogobyvovanloc.png", Quảng Bình
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/PrY6ZQ7/quangbinhtvlogobyvovanloc.png", Quảng Bình HD
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fCwKQvB/quangtritvlogobyvovanloc.png", Quảng Trị HD
 http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
@@ -128,7 +128,7 @@ http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 http://115.78.3.164:8135/liveevent.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8gLRG1f/soctrang2tvlogobyvovanloc.png", Sóc Trăng 2
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4T4V34k/sonlatvlogobyvovanloc.png", Sơn La
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4T4V34k/sonlatvlogobyvovanloc.png", Sơn La HD
 http://203.171.21.203:1935/live/smil:STV.smil/chunklist_w1124521047_b1200000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pvdnWvy/tayninhtvlogobyvovanloc.png", Tây Ninh | 1080P
 https://live-vthcm.vieon.vn/htv_drm/live/tay_ninh/TV_HD/tay_ninh_1080p/chunks.m3u8
