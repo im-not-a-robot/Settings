@@ -96,8 +96,8 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&type=tv&token=1111&time
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/x1zGcdy/langsontvlogobyvovanloc.webp", Lạng Sơn HD
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sQFNSGq/lamdongtvlogobyvovanloc.png", Lâm Đồng
-https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sQFNSGq/lamdongtvlogobyvovanloc.png", Lâm Đồng HD
+http://203.171.21.216:1935/live/smil:LTV.smil/chunklist_w187473612_b1400000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/CJdkHF1/longantvlogobyvovanloc.png", Long An
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/M757dRx/namdinhtvlogobyvovanloc.png", Nam Định
