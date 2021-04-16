@@ -30,7 +30,7 @@ http://113.160.162.131:8080/tv/bk.m3u8
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8rtBmBB/camautvlogobyvovanloc.webp", Cà Mau HD
 https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/vj1nLbM/caobangtvlogobyvovanloc.png", Cao Bằng HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/vj1nLbM/caobangtvlogobyvovanloc.png", Cao Bằng
 https://livecdn.fptplay.net/sda/caobang_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Kx7GQhx/TPcanthotvlogobyvovanloc.png", TP Cần Thơ HD
 https://mekongpassion.com/live/tv/chunklist_w453327460.m3u8
